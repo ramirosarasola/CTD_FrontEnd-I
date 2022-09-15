@@ -573,7 +573,13 @@ body {
     font-size: 12.5px;
 }
 
+/* MI CELULAR */
 
+@media (min-width: 400px){
+    #footer input {
+        width: 200px;
+    }
+}
 
 
 /* TABLET */
